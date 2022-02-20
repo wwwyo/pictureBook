@@ -11,4 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/pictureBook.unity
     guid: 986d5617627d04b69acbb6baaf334a56
-  m_configObjects: {}
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: e5b8e9d1576474cd3b0d387e6dd6aa59, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 177b78401f76141a8b6a0280a17b4aac, type: 2}
